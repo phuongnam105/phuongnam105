@@ -1,16 +1,16 @@
-## Hi there 👋
+### 🌟 Hi, I'm Phương Nam! 🌟
 
-<!--
-**phuongnam105/phuongnam105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub profile! I am an mechatronic engineer with a strong passion for embedded systems and programming. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 Currently, I am an Mechatronic Engineer.
+- 🌱 I am continuously learning and improving my skills in the field of embedded systems.
+- 👯 I am always open to collaborating and participating in exciting open-source projects.
+- 💬 Feel free to ask me about embedded systems, C/C++ programming, and Linux OS.
+- 📫 You can reach me via phuongnamnpn10@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Programming Languages: C, C++
+- Operating Systems: Linux OS
+
+Thank you for visiting! Let's connect and collaborate to create amazing things. 🚀
